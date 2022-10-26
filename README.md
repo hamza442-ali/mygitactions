@@ -1,3 +1,2 @@
 # mygitactions
-//readme
-hamza
+
